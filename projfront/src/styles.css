@@ -1,0 +1,19 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  min-height: 100vh;
+  background-image: url("https://unsplash.com/photos/vnqm4MEPAIA");
+  background-color :#343a40;
+}
+
+footer {
+  position: relative;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  margin-top: 10px;
+}
